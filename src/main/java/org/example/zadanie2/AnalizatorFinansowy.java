@@ -1,4 +1,4 @@
-package org.example;
+package org.example.zadanie2;
 
 public class AnalizatorFinansowy {
     public static int obliczDniBezWydatkow(int[] wydatki) {
